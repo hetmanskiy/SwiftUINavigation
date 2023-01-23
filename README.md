@@ -5,7 +5,7 @@
 3. [Navigation](#navigation)
 
 
-
+[Video presentation record]([https://chiswdevelopment.sharepoint.com/:v:/s/iOSteam/EQrLndxDdixIvUG6pm1Nm18BTZQfx1Z5HptBtwQp8jKKkA?e=58Xfse](https://chiswdevelopment.sharepoint.com/sites/iOSteam/Shared%20Documents/General/Recordings/%D0%A1%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B5%20_General_-20230103_150430-%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F.mp4?web=1)
 
 ## Structure
 
